@@ -1,0 +1,6 @@
+projectKey=ssdlc3-game
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=ssdlc3-game
+ceTaskId=a6e17e0a-e325-4305-9d7b-e9dbc363b0c2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a6e17e0a-e325-4305-9d7b-e9dbc363b0c2
